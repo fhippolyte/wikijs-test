@@ -24,4 +24,4 @@ docker --help
 
 -----
 
-![Fabian Grohs 434786 Unsplash](/uploads/fabian-grohs-434786-unsplash.jpg "Fabian Grohs 434786 Unsplash"){:height="36px" width="36px"}
+![Fabian Grohs 434786 Unsplash](/uploads/fabian-grohs-434786-unsplash.jpg "Fabian Grohs 434786 Unsplash"){:height="360px" width="360px"}
