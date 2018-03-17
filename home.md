@@ -15,5 +15,6 @@
 
 ```text
 docker --version
+docker --help
 ```
 
