@@ -11,3 +11,7 @@
 ###### PAFPAF
 
 
+```text
+docker --version
+```
+
